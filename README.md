@@ -7,3 +7,5 @@
 - I **code** for fun
 
 - btw I use **Arch** [<img src="https://raw.githubusercontent.com/Dam0k1es/Dam0k1es/main/img/arch.svg?token=APPZHGV7OBFWSG5ZNRJE2NTBUVSL6" height="30" align="right" />](https://archlinux.org/) 
+
+# I moved to [Gitlab](https://gitlab.com/dam0k1es)
