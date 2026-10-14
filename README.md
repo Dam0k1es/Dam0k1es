@@ -1,9 +1,3 @@
 # Hi, I’m Dam0k1es
 
--  **Free Software Supporter** [<img src="https://github.com/Dam0k1es/Dam0k1es/blob/main/img/fsf.png?raw=true" height="45" align="right" />](https://www.fsf.org/associate/)
-
-- Part time **student**
-
-- I **code** for fun
-
-# I moved to [Gitlab](https://gitlab.com/dam0k1es)
+I moved to [Gitlab](https://gitlab.com/dam0k1es). Right now, I only use GitHub for projects with Claude.
